@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22058" started-at="2016-01-19T21:48:03Z" finished-at="2016-01-19T21:48:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22058" started-at="2016-01-19T21:48:03Z" finished-at="2016-01-19T21:48:25Z">
+      <class name="com.everyone.counts.sample.InterviewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="setUp" is-config="true" duration-ms="2683" started-at="2016-01-19T13:48:03Z" finished-at="2016-01-19T13:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="readCSVCalculate(com.everyone.counts.sample.data.TestData)[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="readCSVCalculate" duration-ms="5351" started-at="2016-01-19T13:48:06Z" data-provider="provideData" finished-at="2016-01-19T13:48:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.everyone.counts.sample.data.TestData@5f6b0b29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCSVCalculate -->
+        <test-method status="PASS" signature="readCSVCalculate(com.everyone.counts.sample.data.TestData)[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="readCSVCalculate" duration-ms="4288" started-at="2016-01-19T13:48:11Z" data-provider="provideData" finished-at="2016-01-19T13:48:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.everyone.counts.sample.data.TestData@70220d1d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCSVCalculate -->
+        <test-method status="PASS" signature="readCSVCalculate(com.everyone.counts.sample.data.TestData)[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="readCSVCalculate" duration-ms="4137" started-at="2016-01-19T13:48:15Z" data-provider="provideData" finished-at="2016-01-19T13:48:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.everyone.counts.sample.data.TestData@49684e94]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCSVCalculate -->
+        <test-method status="PASS" signature="readCSVCalculate(com.everyone.counts.sample.data.TestData)[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="readCSVCalculate" duration-ms="4428" started-at="2016-01-19T13:48:20Z" data-provider="provideData" finished-at="2016-01-19T13:48:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.everyone.counts.sample.data.TestData@2667ec7f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCSVCalculate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.everyone.counts.sample.InterviewTest@516e9cbe]" name="tearDown" is-config="true" duration-ms="1164" started-at="2016-01-19T13:48:24Z" finished-at="2016-01-19T13:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.everyone.counts.sample.InterviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
